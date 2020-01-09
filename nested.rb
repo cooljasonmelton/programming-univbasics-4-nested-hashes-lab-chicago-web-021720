@@ -81,6 +81,8 @@ def adding_matz
         }
      }
 
+merge!()
+
     
 end
 
