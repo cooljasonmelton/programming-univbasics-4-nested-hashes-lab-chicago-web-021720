@@ -81,7 +81,7 @@ def adding_matz
         }
      }
 
-merge!()
+merge!(programmer_hash)
 
     
 end
